@@ -44,9 +44,9 @@
         <tr>
         <td><b>Variables</b></td>
           <td>"A variable is a value that can change, depending on conditions or on information passed to the program."</td>
-          <td> name = "Kaylee" </td>
-          <td>  </td>
-          <td>The battery percentage on your phone can be a variable because the value of it can change depending on how you use it. </td>
+          <td> The battery percentage on your phone can be a variable because the value of it can change depending on how you use it. </td>
+          <td> <img src="variabl </td>
+          <td>    </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
@@ -63,7 +63,7 @@
           <td><b>Conditionals</b></td
           <td>"A conditional statement is a set of rules performed if a certain condition is met."  </td>
           <td> name = "Kaylee" if user input == "yes" <br> print(name)</td>
-          <td>  </td>
+          <td> <img src="> </td>
           <td>If it is raining outside, then bring the umbrella; else, don't bring umbrella.  </td>
         </tr>
         
