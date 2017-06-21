@@ -45,8 +45,8 @@
         <td><b>Variables</b></td>
           <td>"A variable is a value that can change, depending on conditions or on information passed to the program."</td>
           <td> The battery percentage on your phone can be a variable because the value of it can change depending on how you use it. </td>
-          <td> <img src="variable"> </td>
-          <td>    </td>
+          <td> <img src="variable.PNG"> </td>
+          <td> <img src="variable.MHT>   </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
