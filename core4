@@ -43,34 +43,34 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
+          <td>"A variable is a value that can change, depending on conditions or on information passed to the program."</td>
+          <td> name = "Kaylee" </td>
           <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>The battery percentage on your phone can be a variable because the value of it can change depending on how you use it. </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
+          <td>"A loop is a sequence of instruction s that is continually repeated until a certain condition is reached." </td>
+          <td> for sides in range(sides): <br> john.right(ex_angle) <br> john.forward(length)</td>
           <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>A loop in real life can be tying your shoelaces. When your shoelaces become untied, you are going to keep tying it until you tie a knot. </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
         <tr>
-          <td><b>Conditionals</b></td>
+          <td><b>Conditionals</b></td
+          <td>"A conditional statement is a set of rules performed if a certain condition is met."  </td>
+          <td> name = "Kaylee" if user input == "yes" <br> print(name)</td>
           <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>If it is raining outside, then bring the umbrella; else, don't bring umbrella.  </td>
         </tr>
-
+        
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
+          <td>"A function is a type of procedure or routine that returns a value."</td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
